@@ -1,0 +1,162 @@
+profile_index,peer_supporter_age,peer_supporter_gender,peer_supporter_traits,peer_supporter_mental_health_history,session_topic,patient_age,patient_gender,patient_traits,patient_mental_health_issue
+1,35,female,"compassionate, insightful",recovered from PTSD,coping with trauma,29,male,"distrustful, struggling",trauma recovery
+2,40,male,"calm, logical",history of bipolar disorder,managing mood swings,24,female,"impulsive, energetic",bipolar disorder
+3,28,non-binary,"empathetic, attentive",overcame social anxiety,building social confidence,31,male,"shy, hesitant",social anxiety
+4,33,female,"optimistic, supportive",struggled with depression,finding hope in depression,37,female,"pessimistic, hopeless",depression
+5,26,male,"encouraging, patient",overcame addiction,recovery from addiction,22,male,"frustrated, seeking help",substance abuse
+6,29,female,"caring, thoughtful",history of eating disorder,body positivity,19,female,"self-conscious, insecure",body image issues
+7,31,male,"patient, good listener",overcame OCD,managing OCD symptoms,27,male,"perfectionist, anxious",obsessive-compulsive disorder
+8,34,female,"understanding, empathetic",recovered from anxiety,anxiety management techniques,45,male,"stressed, overwhelmed",generalized anxiety disorder
+9,30,non-binary,"kind, resourceful",overcame panic disorder,handling panic attacks,38,female,"fearful, seeking control",panic disorder
+10,42,male,"reassuring, steady",history of PTSD,managing flashbacks,34,male,"traumatized, vigilant",post-traumatic stress disorder
+11,27,female,"energetic, supportive",overcame depression,finding joy in daily life,29,female,"sad, unmotivated",depression
+12,36,male,"analytical, understanding",history of generalized anxiety,overcoming irrational fears,40,male,"fearful, cautious",phobia
+13,39,female,"thoughtful, nurturing",struggled with grief,processing loss,35,female,"grieving, sorrowful",grief
+14,32,non-binary,"friendly, supportive",overcame social anxiety,improving social skills,28,male,"withdrawn, nervous",social anxiety disorder
+15,41,female,"calm, reassuring",recovered from PTSD,managing triggers,30,female,"jumpy, anxious",post-traumatic stress disorder
+16,29,male,"encouraging, patient",overcame ADHD,managing ADHD in adulthood,25,male,"distracted, impulsive",attention deficit hyperactivity disorder
+17,37,female,"empathetic, wise",overcame bipolar disorder,balancing mood swings,32,female,"moody, unpredictable",bipolar disorder
+18,30,male,"supportive, understanding",history of depression,maintaining a positive mindset,33,male,"negative, hopeless",depression
+19,45,female,"encouraging, patient",overcame eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+20,34,male,"calm, methodical",history of OCD,managing obsessive thoughts,27,male,"anxious, perfectionist",obsessive-compulsive disorder
+21,29,female,"empathetic, encouraging",overcame social anxiety,navigating social interactions,24,male,"shy, awkward",social anxiety disorder
+22,38,non-binary,"kind, understanding",history of panic disorder,managing panic attacks,32,female,"anxious, fearful",panic disorder
+23,27,female,"optimistic, cheerful",recovered from depression,finding joy in life,29,male,"sad, unmotivated",depression
+24,41,male,"wise, empathetic",history of PTSD,coping with trauma,34,male,"traumatized, vigilant",post-traumatic stress disorder
+25,36,female,"thoughtful, understanding",overcame anxiety,anxiety management,45,female,"stressed, overwhelmed",generalized anxiety disorder
+26,33,non-binary,"caring, patient",history of eating disorder,developing a healthy body image,19,female,"self-conscious, insecure",body image issues
+27,39,female,"reassuring, supportive",history of bipolar disorder,balancing emotions,28,male,"moody, unpredictable",bipolar disorder
+28,30,male,"calm, insightful",history of depression,dealing with hopelessness,35,female,"pessimistic, hopeless",depression
+29,42,female,"caring, understanding",overcame PTSD,managing trauma triggers,30,male,"jumpy, anxious",post-traumatic stress disorder
+30,28,male,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+31,31,female,"kind, empathetic",recovered from anxiety,handling stress,27,male,"anxious, stressed",generalized anxiety disorder
+32,37,non-binary,"calm, patient",history of panic disorder,overcoming panic,29,female,"fearful, anxious",panic disorder
+33,32,female,"encouraging, positive",recovered from depression,finding joy in everyday life,34,female,"sad, unmotivated",depression
+34,29,male,"thoughtful, logical",overcame OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+35,35,female,"understanding, supportive",history of eating disorder,healthy relationship with food,23,female,"self-critical, anxious",eating disorder
+36,34,male,"wise, calm",history of PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+37,31,female,"calm, thoughtful",overcame depression,staying positive,33,female,"negative, hopeless",depression
+38,28,male,"kind, patient",overcame social anxiety,building social confidence,25,male,"shy, hesitant",social anxiety
+39,36,female,"supportive, understanding",history of depression,coping with loneliness,45,female,"lonely, sad",depression
+40,27,male,"empathetic, kind",overcame addiction,maintaining sobriety,21,male,"frustrated, seeking help",substance abuse
+41,38,female,"thoughtful, caring",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+42,33,male,"calm, understanding",history of PTSD,handling trauma triggers,32,male,"jumpy, anxious",post-traumatic stress disorder
+43,26,female,"positive, encouraging",overcame depression,finding happiness,29,female,"sad, unmotivated",depression
+44,41,male,"wise, patient",history of anxiety,managing anxiety,35,male,"stressed, overwhelmed",generalized anxiety disorder
+45,28,female,"kind, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+46,36,male,"supportive, calm",history of depression,coping with sadness,33,female,"negative, hopeless",depression
+47,29,female,"empathetic, encouraging",overcame social anxiety,building social skills,24,male,"shy, awkward",social anxiety disorder
+48,38,male,"wise, calm",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+49,33,female,"thoughtful, supportive",history of PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+50,28,male,"kind, patient",history of addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+51,34,female,"calm, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+52,31,male,"empathetic, kind",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+53,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+54,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+55,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+56,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+57,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+58,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+59,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+60,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+61,33,non-binary,"supportive,patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+62,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+63,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+64,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+65,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+66,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+67,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+68,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+69,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+70,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+71,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+72,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+73,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+74,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+75,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+76,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+77,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+78,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+79,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+80,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+81,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+82,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+83,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+84,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+85,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+86,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+87,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+88,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+89,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+90,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+91,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+92,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+93,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+94,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+95,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+96,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+97,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+98,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+99,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+100,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+101,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+102,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+103,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+104,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+105,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+106,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+107,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+108,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+109,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+110,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+111,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+112,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+113,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+114,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+115,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+116,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+117,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+118,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+119,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+120,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+121,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized,vigilant",post-traumatic stress disorder
+122,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+123,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+124,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+125,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+126,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+127,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+128,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+129,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+130,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+131,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+132,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+133,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+134,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+135,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+136,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+137,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+138,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+139,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+140,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+141,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+142,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+143,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+144,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+145,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+146,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+147,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+148,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+149,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+150,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
+151,31,male,"kind, empathetic",history of social anxiety,building social confidence,27,male,"shy, hesitant",social anxiety
+152,37,female,"encouraging, supportive",history of depression,coping with sadness,45,female,"negative, hopeless",depression
+153,29,female,"thoughtful, empathetic",history of OCD,managing compulsive behaviors,29,female,"perfectionist, anxious",obsessive-compulsive disorder
+154,30,male,"calm, wise",overcame PTSD,coping with trauma,30,male,"traumatized, vigilant",post-traumatic stress disorder
+155,34,female,"encouraging, positive",overcame depression,finding happiness,34,female,"sad, unmotivated",depression
+156,29,male,"supportive, kind",overcame social anxiety,building social skills,25,male,"shy, awkward",social anxiety disorder
+157,31,female,"empathetic, thoughtful",history of eating disorder,healthy eating habits,21,female,"self-critical, anxious",eating disorder
+158,38,male,"calm, wise",history of OCD,managing obsessive thoughts,27,female,"perfectionist, anxious",obsessive-compulsive disorder
+159,36,female,"thoughtful, supportive",history of PTSD,coping with trauma,32,male,"traumatized, vigilant",post-traumatic stress disorder
+160,33,non-binary,"supportive, patient",overcame addiction,staying sober,22,male,"frustrated, seeking help",substance abuse
+161,29,female,"encouraging, thoughtful",overcame depression,finding joy in life,29,female,"sad, unmotivated",depression
