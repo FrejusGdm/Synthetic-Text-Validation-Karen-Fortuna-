@@ -52,5 +52,4 @@ If you use these prompts or find this work helpful, please cite:
 ```
 Godeme, J., Hill, J., Gaughan, S. P., Hirschbuhl, W. J., Emerson, A. J., Darabos, C., Bobak, C. A., & Fortuna, K. L. (2025). Artificial Allies: Validation of Synthetic Text for Peer Support Tools through Data Augmentation in NLP Model Development. Proceedings of the Pacific Symposium on Biocomputing, Hawaii, USA.
 ```
-[Your preferred citation format]
 
