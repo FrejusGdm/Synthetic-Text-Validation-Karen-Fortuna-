@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This study investigates the potential of using synthetic text to augment training data for Natural Language Processing (NLP) models, specifically within the context of peer support tools. We used ChatGPT to generate transcript-like text to validate if AI-generated sentences could be used to train our recommendation algorithm for peer supporters.
+See research paper
 
 ## System Prompts
 
